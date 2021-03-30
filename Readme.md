@@ -3,4 +3,4 @@
 -I like C, thats it...
 
 Tools:
-- <img align="left" width="20px" src="neovim.png">Vim
+- <img align="left" width="20px" src="neovim.png">Nvim
